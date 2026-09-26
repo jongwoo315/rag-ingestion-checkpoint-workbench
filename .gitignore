@@ -14,8 +14,12 @@ build/
 
 # Node
 node_modules/
+node_modules_delete/
 dist/
 *.log
+
+# Study notes
+study/
 
 # IDE
 .vscode/
